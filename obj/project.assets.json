@@ -1643,11 +1643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aswin\\Documents\\GitHub\\AswinPG.github.io\\BlazorApp.csproj",
+      "projectUniqueName": "C:\\Users\\Aswin\\Documents\\GitHub\\BlazorApp\\BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "C:\\Users\\Aswin\\Documents\\GitHub\\AswinPG.github.io\\BlazorApp.csproj",
+      "projectPath": "C:\\Users\\Aswin\\Documents\\GitHub\\BlazorApp\\BlazorApp.csproj",
       "packagesPath": "C:\\Users\\Aswin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aswin\\Documents\\GitHub\\AswinPG.github.io\\obj\\",
+      "outputPath": "C:\\Users\\Aswin\\Documents\\GitHub\\BlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
